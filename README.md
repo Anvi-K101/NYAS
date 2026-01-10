@@ -1,6 +1,6 @@
 # GridSync AI
 
-GridSync AI is a research-driven project exploring how predictive artificial intelligence can stabilise grid frequency in renewable-heavy energy systems
+GridSync AI is a research-driven project exploring how predictive artificial intelligence can stabilise grid frequency in renewable-heavy energy systems.
 
 ## Focus Areas
 
